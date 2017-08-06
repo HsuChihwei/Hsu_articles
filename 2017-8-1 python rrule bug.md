@@ -11,7 +11,7 @@ grammar_cjkRuby: true
 > Such recurrence instances MUST be ignored and MUST NOT be  counted as part of the recurrence set.
 
 This can lead to possibly surprising behavior when, for example, the start date occurs at the end of the month:
-```
+```python
 >>> from dateutil.rrule import rrule, MONTHLY
 >>> from datetime import datetime
 >>> start_date = datetime(2014, 12, 31)
