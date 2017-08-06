@@ -6,7 +6,7 @@ grammar_cjkRuby: true
 ## The most pythonic way to pad zeroes to string
 
 ### Strings:
-```
+```python
 >>> n = '4'
 >>> n.zfill(3)
 >>> '004'
@@ -28,7 +28,7 @@ grammar_cjkRuby: true
 >>> '-----4-----'
 ```
 `rjust/zfill` 区别:
-```
+```python
 zfill:
 >>> '--txt'.zfill(10)
 >>> '-00000-txt'
@@ -46,7 +46,7 @@ rjust:
 ```
 
 ### numbers:
-```
+```python
 >>> n = 4
 >>> print '%03d' % n
 004
@@ -66,7 +66,7 @@ rjust:
 >  % formatting 已被 string.format 替代
 
 ### 保留小数位：
-```
+```python
 format(value, '.6f')
 
 >>> format(2.0, '.6f')
