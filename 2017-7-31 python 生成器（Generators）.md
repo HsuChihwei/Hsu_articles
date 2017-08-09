@@ -1,6 +1,6 @@
 ---
 title: 2017-7-31 python 生成器（Generators）
-tags: Python
+tags: [Python]
 grammar_cjkRuby: true
 ---
 ### 可迭代对象（iterable）：
