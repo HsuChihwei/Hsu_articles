@@ -1,6 +1,6 @@
 ---
 title: 2017-8-6 python string 
-tags: Python
+tags: [Python]
 grammar_cjkRuby: true
 ---
 ## The most pythonic way to pad zeroes to string
