@@ -1,6 +1,6 @@
 ---
 title: 2017-8-7 pandas 获取不符合条件的dataframe
-tags: Python, pandas
+tags: [Python, pandas]
 grammar_cjkRuby: true
 ---
 ## search for “does-not-contain” on a dataframe in pandas
