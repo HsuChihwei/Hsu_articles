@@ -1,6 +1,6 @@
 ---
 title: 2017-8-8 profile cProfile 效率分析
-tags: Python
+tags: [Python]
 grammar_cjkRuby: true
 ---
 ### test.py：
