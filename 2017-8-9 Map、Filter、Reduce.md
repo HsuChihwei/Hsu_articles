@@ -1,6 +1,6 @@
 ---
 title: 2017-8-9 Map、Filter、Reduce
-tags: Python, Map, Filter, Reduce
+tags: [Python, Map, Filter, Reduce]
 grammar_cjkRuby: true
 ---
 
