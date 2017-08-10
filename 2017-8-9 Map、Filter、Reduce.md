@@ -1,6 +1,6 @@
 ---
 title: 2017-8-9 Map、Filter、Reduce
-dates: 2017-8-9 
+date: 2017-8-9 
 tags: [Python, Map, Filter, Reduce]
 grammar_cjkRuby: true
 ---
