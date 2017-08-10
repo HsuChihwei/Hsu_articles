@@ -1,5 +1,6 @@
 ---
 title: 2017-8-7 python args and kwargs
+date: 2017-8-7
 tags: [Python, args, kwargs]
 grammar_cjkRuby: true
 ---
