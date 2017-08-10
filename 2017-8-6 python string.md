@@ -1,5 +1,6 @@
 ---
 title: 2017-8-6 python string 
+date: 2017-8-6
 tags: [Python]
 grammar_cjkRuby: true
 ---
