@@ -1,5 +1,6 @@
 ---
 title: 2017-8-1 python rrule bug
+date: 2017-8-1
 tags: [Python, Bug]
 grammar_cjkRuby: true
 ---
