@@ -8,6 +8,7 @@ grammar_cjkRuby: true
 ### 情景描述：
 > 上周，由于产品嫌报告生成太慢，经过使用`profile/gprof2dot`研究后，发现主要时间耗费在接口网络请求上，于是我决定在项目中大量处理I/O网络请求的地方使用`gevent`,以缓解报告生成压力。
 
+<!--more-->
 ### 实现代码：
 ``` python
 import gevent
