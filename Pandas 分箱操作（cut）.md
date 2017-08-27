@@ -105,4 +105,9 @@ counts.sort_index()
 # (5, 17]     12
 # (17, 33]    16
 
+# reset index
+out = counts.reset_index(drop=True) # counts 不变
+counts.reset_index(drop=True, inplace=True) # 直接改变counts
+
+
 ```
