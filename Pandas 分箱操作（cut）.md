@@ -8,6 +8,7 @@ grammar_cjkRuby: true
 ### 情景描述：
 > 最新，项目中涉及到评分卡操作，评分项目有大概几十项，每项基本都是按频次区间给一个分数，最后，累计所有项目的分数得出最后所需要的分数。
 
+<!--more-->
 ### demo1：
 ```python
 import pandas as pd
