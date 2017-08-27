@@ -28,6 +28,7 @@ grammar_cjkRuby: true
 >>> '4'.center(11,"-")
 >>> '-----4-----'
 ```
+<!--more-->
 `rjust/zfill` 区别:
 ```python
 zfill:
