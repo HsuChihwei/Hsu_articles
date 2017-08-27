@@ -9,6 +9,7 @@ tags: Python, Debugger
 ```python
 python -m pdb my_script.py
 ```
+<!--more-->
 ### 脚本内部运行：
 ```python
 import pdb
