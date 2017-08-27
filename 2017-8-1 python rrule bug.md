@@ -11,6 +11,8 @@ grammar_cjkRuby: true
 > Recurrence rules may generate recurrence instances with an invalid date (e.g., February 30) or nonexistent local time (e.g., 1:30 AM  on a day where the local time is moved forward by an hour at 1:00 AM).  
 > Such recurrence instances MUST be ignored and MUST NOT be  counted as part of the recurrence set.
 
+<!--more-->
+
 This can lead to possibly surprising behavior when, for example, the start date occurs at the end of the month:
 ```python
 >>> from dateutil.rrule import rrule, MONTHLY
