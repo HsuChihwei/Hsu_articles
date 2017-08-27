@@ -99,6 +99,7 @@ print(counts)
 
 # 排序
 counts.reindex(out.cat.categories)
+counts.sort_index()
 
 # (0, 5]       5
 # (5, 17]     12
