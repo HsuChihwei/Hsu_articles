@@ -20,7 +20,7 @@ test_var_args('yasoob', 'python', 'eggs', 'test')
 # another arg through *argv: eggs
 # another arg through *argv: test
 ```
-
+<!--more-->
 ### `**kwargs`：
 > 传递不定长度的键值对（字典）, 作为参数传递给一个函数（即传递带名字的参数）。
 ```python
