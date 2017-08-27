@@ -16,7 +16,7 @@ write_info('report', dict(report_data))
 
 import json
 ```
-
+<!--more-->
 ### 读文件，格式化
 ```python
 def pp_json(json_thing, sort=True, indents=4):
