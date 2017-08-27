@@ -15,6 +15,7 @@ squared = list(map(lambda x: x**2, items))
 # output:
 [1, 4, 9, 16, 25]
 ```
+<!--more-->
 #### map作用于一列表的函数：
 ```python
 def multiply(x):
