@@ -16,7 +16,7 @@ for (dirpath, dirnames, filenames) in os.walk(sys.argv[1]):
 	for filename in filenames:
 		process(filename)
 ```
-
+<!--more-->
 ### cProfile用法：
 ```python
 # 生成.pstats分析文档
