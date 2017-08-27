@@ -8,11 +8,12 @@ grammar_cjkRuby: true
 ### 情景描述：
 > 继续完成项目中的评分卡部分，拿到分好箱的数据后，如何进行加权得到最后的分数就是我们接下来要考虑的问题了。
 
-#### demo1：
+<!--more-->
+#### demo1:
 ```python
 result = dataframe.mul(series, axis=0)
 ```
-
+#### demo2:
 ```python 
 def tile_df(df, n, m):
  dfn = df.T
@@ -31,7 +32,7 @@ tile_df(df, 2, 3)
 # 2 1 2 1 2 1 2
 # 3 3 4 3 4 3 4
 ```
-#### demo2：
+#### demo3:
 ```python
 >>> df = pd.DataFrame(np.random.randint(1, 10, (5, 3)))
 >>> df
@@ -66,7 +67,7 @@ dtype: int64
 dtype: int64
 
 ```
-#### demo3：
+#### demo4:
 ```python
 In[197]: import pandas as pd; import numpy as np
  
@@ -125,7 +126,6 @@ Out[204]:
 6    1800.0
 7    2450.0
 Name: a, dtype: float64
-
 
 
 # 行相乘
