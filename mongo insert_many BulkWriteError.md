@@ -19,6 +19,7 @@ Traceback (most recent call last):
     raise BulkWriteError(full_result)
 BulkWriteError: batch op errors occurred
 ```
+<!--more-->
 
 ### 分析
 > 问题出现在，对同一文本进行多次插入，官方说法：` insert_many() with a list of references to a single document raises BulkWriteError`
