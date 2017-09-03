@@ -9,7 +9,7 @@ grammar_cjkRuby: true
 ### 情景描述：
 > 项目中，发现很多函数、类没有注释说明，一个个弄比较繁琐，所以……
 
-
+<!--more-->
 ###  `docstring`定义：
 > 官方：A docstring is a string literal that occurs as the first statement in a module, function, class, or method definition. Such a docstring becomes the __doc__ special attribute of that object；
 > 人话：“出现在模块、函数、类、方法里的第一个语句，就叫做`docsting`”；
@@ -89,7 +89,7 @@ OtherError
 """
 ```
 ### 转换工具[`pyment`](https://github.com/dadadel/pyment)
-> 用来创建、转换`docsting`
+> 用来创建、转换`docsting`，[点击查看安装](https://github.com/dadadel/pyment)
 > centos中可能使用不了`patch`，[点击下载安装包](http://centos-packages.com/7/package/patch/)
 > `pyment`命令帮助：`pyment -h`
 
@@ -204,4 +204,4 @@ class A:
 ```
 
 ### 后续
-> 使用`sphinx`的`autodoc`自动从`docstring`生产api文档
+> 使用`sphinx`的`autodoc`自动从`docstring`生产api文档, 避免重复工作，再娄一遍Api文档。
