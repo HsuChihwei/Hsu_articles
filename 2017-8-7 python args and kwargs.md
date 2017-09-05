@@ -1,8 +1,8 @@
 ---
 title: 2017-8-7 python args and kwargs
 date: 2017-8-7
+categories: [Python, Notes]
 tags: [Python, args, kwargs]
-grammar_cjkRuby: true
 ---
 ### `*args`：
 > 传递一个非键值对的可变数量的参数列表给一个函数。
