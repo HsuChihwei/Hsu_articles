@@ -1,9 +1,8 @@
 ---
-title: Pandas dataframe与序列相乘 
+title: 2017-8-27 dataframe与序列相乘 
 date: 2017-8-27 18:28:54
-categories: Python, Notes
-tags: Python, Pandas
-grammar_cjkRuby: true
+categories: [Python, Notes]
+tags: [Python, Pandas]
 ---
 ### 情景描述：
 > 继续完成项目中的评分卡部分，拿到分好箱的数据后，如何进行加权得到最后的分数就是我们接下来要考虑的问题了。
