@@ -9,7 +9,7 @@ grammar_cjkRuby: true
 ### 情景描述：
 > 项目中，有一个list，list内部组成元素为dict，现需要根据dict中某个键的值来进行排序。
 
-
+<!-- more -->
 ### 代码实现：
 >  `reverse`: False--默认，正序；True--逆序，由大到小；
 >  `key`: 可以根据`key`值自定义排序；
