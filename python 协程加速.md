@@ -1,9 +1,8 @@
 ---
-title: python 协程加速
+title: 2017-8-27 python 协程加速
 date: 2017-8-27 16:5:58
-categories: Python, Notes
-tags: Python, gevent
-grammar_cjkRuby: true
+categories: [Python, Notes]
+tags: [Python, gevent]
 ---
 ### 情景描述：
 > 上周，由于产品嫌报告生成太慢，经过使用`profile/gprof2dot`研究后，发现主要时间耗费在接口网络请求上，于是我决定在项目中大量处理I/O网络请求的地方使用`gevent`,以缓解报告生成压力。
