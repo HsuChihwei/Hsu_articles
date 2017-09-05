@@ -1,8 +1,8 @@
 ---
 title: 2017-7-31 python 生成器（Generators）
 date: 2017-7-31
-tags: [Python]
-grammar_cjkRuby: true
+categories: [Python, Notes]
+tags: [Python, generators]
 ---
 ### 可迭代对象（iterable）：
 > 能提供迭代器的任意对象；只要定义了一个迭代器的__iter__方法或定义了支持下标索引的__getitem__方法，那就是一个可迭代对象。
