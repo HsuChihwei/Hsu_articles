@@ -1,8 +1,8 @@
 ---
 title: 2017-8-6 python string 
 date: 2017-8-6
-tags: [Python]
-grammar_cjkRuby: true
+categories: [Python, Notes]
+tags: [Python, string]
 ---
 ## The most pythonic way to pad zeroes to string
 
