@@ -1,9 +1,8 @@
 ---
-title: JSON文件 读写 格式化 
+title: 2017-8-14 JSON文件 读写 格式化 
 date: 2017-8-14 13:37:4
-categories: Python, Notes
-tags: Python
-grammar_cjkRuby: true
+categories: [Python, Notes]
+tags: [Python, json]
 ---
 ### 写文件，格式化
 > `indent`: 
