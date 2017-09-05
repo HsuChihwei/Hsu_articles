@@ -1,9 +1,8 @@
 ---
-title: python 自动 生成注释文档（docstring）
+title: 2017-8-31 自动 生成注释文档（docstring）
 date: 2017-8-31 20:22:52
 categories: [Python, Notes]
 tags: [Python, Linux]
-grammar_cjkRuby: true
 ---
 
 ### 情景描述：
