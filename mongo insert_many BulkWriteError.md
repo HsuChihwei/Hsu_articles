@@ -1,9 +1,8 @@
 ---
-title: mongo insert_many BulkWriteError 
+title: 2017-8-23 mongo insert_many BulkWriteError 
 date: 2017-8-23 9:31:8
-categories: Python
-tags: Python, Bug
-grammar_cjkRuby: true
+categories: [Python, Bug]
+tags: [Python, mongo]
 ---
 ### 问题：
 > 在对mongo插入数据时，报写入问题，报错信息如下：
