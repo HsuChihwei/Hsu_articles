@@ -1,8 +1,8 @@
 ---
 title: 2017-8-10 调试 Pdb（Python debugger）
 date: 2017-8-10 22:20:47
-categories: Python, Notes
-tags: Python, Debugger
+categories: [Python, Notes]
+tags: [Python, Debugger]
 ---
 ## Pdb（Python debugger）：
 ### 命令行运行：
