@@ -1,7 +1,7 @@
 ---
 title: 2017-8-23 mongo insert_many BulkWriteError 
 date: 2017-8-23 9:31:8
-categories: [Python, Bug]
+categories: [Bug, Python]
 tags: [Python, mongo]
 ---
 ### 问题：
