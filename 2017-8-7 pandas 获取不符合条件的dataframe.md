@@ -1,7 +1,7 @@
 ---
 title: 2017-8-7 pandas 获取不符合条件的dataframe
 date: 2017-8-7
-categories: [Python, Notes]
+categories: [Notes, Python]
 tags: [Python, pandas]
 ---
 ## search for “does-not-contain” on a dataframe in pandas
