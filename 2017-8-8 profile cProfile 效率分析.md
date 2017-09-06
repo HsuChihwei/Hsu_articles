@@ -1,7 +1,7 @@
 ---
 title: 2017-8-8 profile cProfile 效率分析
 date: 2017-8-8
-categories: [Python, Notes]
+categories: [Notes, Python]
 tags: [Python, 效率]
 ---
 ### test.py：
