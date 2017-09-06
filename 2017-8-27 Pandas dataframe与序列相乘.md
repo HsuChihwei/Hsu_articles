@@ -1,7 +1,7 @@
 ---
 title: 2017-8-27 dataframe与序列相乘 
 date: 2017-8-27 18:28:54
-categories: [Python, Notes]
+categories: [Notes, Python]
 tags: [Python, Pandas]
 ---
 ### 情景描述：
