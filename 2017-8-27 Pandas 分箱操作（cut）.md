@@ -1,7 +1,7 @@
 ---
 title: 2017-8-27 Pandas 分箱操作（cut） 
 date: 2017-8-27 11:12:47
-categories: [Python, Notes]
+categories: [Notes, Python]
 tags: [Python, Pandas]
 ---
 ### 情景描述：
