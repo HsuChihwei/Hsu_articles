@@ -1,8 +1,8 @@
 ---
 title: 2017-9-5 python  list 排序 sort、sorted 
 date: 2017-9-5 15:17:50
-categories: Python
-tags: list
+categories: [Notes, Python]
+tags: [Python, list]
 grammar_cjkRuby: true
 ---
 
