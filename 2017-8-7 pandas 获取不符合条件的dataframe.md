@@ -1,8 +1,8 @@
 ---
 title: 2017-8-7 pandas 获取不符合条件的dataframe
 date: 2017-8-7
-categories: [Notes, Python]
-tags: [Python, pandas]
+categories: [数据分析, Pandas]
+tags: [Python, Pandas, Contains]
 ---
 ## search for “does-not-contain” on a dataframe in pandas
 > 问题来源：做项目时，想拿到不符合条件的所有数据，比如：通话类型有好多种（主叫、被叫、呼转……），现在想分析所有非主叫数据，那么问题就来了。
