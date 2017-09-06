@@ -1,7 +1,7 @@
 ---
 title: 2017-8-7 python args and kwargs
 date: 2017-8-7
-categories: [Python, Notes]
+categories: [Notes, Python]
 tags: [Python, args, kwargs]
 ---
 ### `*args`：
