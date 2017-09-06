@@ -1,7 +1,7 @@
 ---
 title: 2017-5-17 Markdown 常用语法
 date: 2017-05-17 21:46:29
-categories: [Notes]
+categories: [Notes, Markdown]
 tags: [Markdown,  速查]
 ---
 ## 标题(一)
