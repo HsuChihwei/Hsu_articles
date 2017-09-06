@@ -1,7 +1,7 @@
 ---
 title: 2017-8-31 python  two sum 问题
 date: 2017-8-31 17:2:59
-categories: [Python, Notes]
+categories: [Notes, Python]
 tags: [Python, 算法]
 ---
 ### 题目描述：
