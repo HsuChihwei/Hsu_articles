@@ -1,7 +1,7 @@
 ---
 title: 2017-7-31 python 生成器（Generators）
 date: 2017-7-31
-categories: [Python, Notes]
+categories: [Notes, Python]
 tags: [Python, generators]
 ---
 ### 可迭代对象（iterable）：
