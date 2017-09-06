@@ -5,7 +5,7 @@ categories: [Notes, Python]
 tags: [Python, 算法]
 ---
 ### 题目描述：
-> 
+> 来自`LeetCode`
 
 ```
 # Time:  O(n)
@@ -22,7 +22,7 @@ tags: [Python, 算法]
 # Because nums[0] + nums[1] = 2 + 7 = 9,
 # return [0, 1].
 ```
-
+<!-- more -->
 ### Python 解法：
 ```python
 class Solution(object):
