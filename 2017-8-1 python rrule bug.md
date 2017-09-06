@@ -1,7 +1,7 @@
 ---
 title: 2017-8-1 python rrule bug
 date: 2017-8-1
-categories: [Python, Notes]
+categories: [Bug, Python]
 tags: [Python, Bug]
 ---
 `http://dateutil.readthedocs.io/en/stable/_modules/dateutil/rrule.html`
