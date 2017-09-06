@@ -1,7 +1,7 @@
 ---
 title: 2017-8-31 自动 生成注释文档（docstring）
 date: 2017-8-31 20:22:52
-categories: [Python, Notes]
+categories: [Notes, Python]
 tags: [Python, Linux]
 ---
 
