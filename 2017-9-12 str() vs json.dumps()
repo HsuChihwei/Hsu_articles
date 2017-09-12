@@ -105,3 +105,16 @@ from bson.objectid import ObjectId
 [i for i in dbm.neo_nodes.find({"_id": ObjectId(obj_id_to_find)})]
 
 ```
+> 转换已转义的字符串转字典（str to dict）
+
+```python
+>>> a = '{\\"name\\":\\"michael\\"}'
+>>> print a
+{\"name\":\"michael\"}
+
+>>> type(json.loads('“' + a + '”'))
+<type 'unicode'>
+>>> type(json.loads(json.loads('“' + a + '”')))
+<type 'dict'>
+# 第一次json.loads是将里面的\"这样的字符串转为"(只有一个双引号)，第二次再将其转为一个字典，记得不要漏掉前面先加双引号。
+```
