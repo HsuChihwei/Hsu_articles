@@ -69,14 +69,31 @@ In [18]: print str(True)
 True
 
 __str__, can, however, be overridden in user defined classes to ensure that objects return JSON representations of themselves.
-···
+```
 
-···python
+> 字典转字符串（dict to str）
+```python
+# If your dictionary isn't too big maybe str + eval can do the work:
+dict1 = {'one':1, 'two':2, 'three': {'three.1': 3.1, 'three.2': 3.2 }}
+str1 = str(dict1)
 
+dict2 = eval(str1)
+
+print dict1==dict2
+# You can use ast.literal_eval instead of eval for additional security if the source is untrusted.
+```
+
+> 字符串转字典（str to dict）
+```python
 # str to dict
 In [33]: import ast
-
 In [34]: ast.literal_eval("{'x':1, 'y':2}")
 Out[34]: {'x': 1, 'y': 2}
+```
 
-···
+> `pymongo` 根据ObjectId进行查询
+```python 
+from bson.objectid import ObjectId
+[i for i in dbm.neo_nodes.find({"_id": ObjectId(obj_id_to_find)})]
+
+```
