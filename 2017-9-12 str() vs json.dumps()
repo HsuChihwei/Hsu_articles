@@ -81,6 +81,14 @@ dict2 = eval(str1)
 
 print dict1==dict2
 # You can use ast.literal_eval instead of eval for additional security if the source is untrusted.
+
+import json
+
+# convert to string
+input = json.dumps({'id': id })
+
+# load to dict
+my_dict = json.loads(input) 
 ```
 
 > 字符串转字典（str to dict）
