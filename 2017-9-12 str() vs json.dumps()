@@ -118,3 +118,16 @@ from bson.objectid import ObjectId
 [i for i in dbm.neo_nodes.find({"_id": ObjectId(obj_id_to_find)})]
 
 ```
+
+> float nan
+
+```python
+>>> import math
+>>> x=float('nan')
+>>> math.isnan(x)
+True
+
+# The usual way to test for a NaN is to see if it's equal to itself, since nan isn't equal anything.
+def isNaN(num):
+    return num != num
+```
