@@ -2,7 +2,7 @@
 title: 2017-9-13 cProfile 
 date: 2017-9-13 16:51:2
 categories: [Notes, Python]
-tags: [Python, ]
+tags: [Python, cProfile, 效率]
 ---
 ```python
 
