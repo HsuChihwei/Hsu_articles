@@ -5,6 +5,7 @@ categories: [Notes, Python]
 tags: [Python, unittest, mock, 单元测试, 挡板, 测试]
 ---
 ### mock 功效
+<!--more-->
 
 #### 完成功能测试
 
