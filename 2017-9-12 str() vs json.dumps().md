@@ -4,6 +4,8 @@ date: 2017-9-12 9:39:13
 categories: [Notes, Python]
 tags: [Python, string, json]
 ---
+
+<!--more-->
 ```python
 >>> data = {'jsonKey': 'jsonValue',"title": "hello world"}
 
