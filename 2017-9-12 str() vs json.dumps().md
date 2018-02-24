@@ -6,6 +6,7 @@ tags: [Python, string, json]
 ---
 
 <!--more-->
+
 ```python
 >>> data = {'jsonKey': 'jsonValue',"title": "hello world"}
 
