@@ -7,6 +7,8 @@ tags: [Python, string, json]
 
 <!--more-->
 
+### str() 与 json.dumps()的区别
+
 ```python
 >>> data = {'jsonKey': 'jsonValue',"title": "hello world"}
 
