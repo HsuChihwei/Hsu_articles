@@ -1,5 +1,5 @@
 ---
-title: 2017-8-9 Map、Filter、Reduce
+title: Map、Filter、Reduce
 date: 2017-8-9 
 categories: [Notes, Python]
 tags: [Python, Map, Filter, Reduce]
