@@ -1,2 +1,2 @@
-# python_note
-The note of my Python
+# Note
+The place of my article.
